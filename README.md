@@ -30,18 +30,6 @@
 
 
 
----
-
-### 🚀 โปรเจกต์ที่ภูมิใจ (Featured Projects)
-
-| ชื่อโปรเจกต์ | รายละเอียด | เทคโนโลยีที่ใช้ | ลิงก์ |
-| :--- | :--- | :--- | :--- |
-| **🌟 Project Name 1** | คำอธิบายสั้นๆ ว่าโปรเจกต์นี้ทำอะไรได้บ้าง และแก้ปัญหาอะไร | `React`, `Node.js`, `MongoDB` | [ดูโค้ด](https://github.com/your-username/repo-1) • [เดโม](https://your-demo-link.com) |
-| **🔥 Project Name 2** | คำอธิบายสั้นๆ เกี่ยวกับฟีเจอร์เด่นของโปรเจกต์นี้ | `Next.js`, `Tailwind CSS`, `Supabase` | [ดูโค้ด](https://github.com/your-username/repo-2) • [เดโม](https://your-demo-link.com) |
-| **⚡ Project Name 3** | เครื่องมือหรือสคริปต์ที่ช่วยอำนวยความสะดวกในการทำงาน | `Python`, `Docker` | [ดูโค้ด](https://github.com/your-username/repo-3) |
-
----
-
 ### 📊 สถิติบน GitHub (GitHub Stats)
 
 <div align="center">
