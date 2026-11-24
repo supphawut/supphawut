@@ -19,12 +19,12 @@
 ### 🛠️ ทักษะและเครื่องมือที่ใช้ (Tech Stack & Tools)
 
 #### **ทักษะ (Skills & Languages)**
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=html,py,c" alt="Skills Icons" />
 </p>
 
 #### **เครื่องมือที่ใช้ (Tools)**
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=py,c,vscode,github" alt="Tools Icons" />
 </p>
 
