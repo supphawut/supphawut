@@ -45,8 +45,3 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </p>
-
-<br />
-<div align="center">
-  <sub>ขอบคุณที่แวะเข้ามาเยี่ยมชมครับ! หากชอบโปรเจกต์ไหน อย่าลืมกด ⭐️ เป็นกำลังใจให้ด้วยนะครับ</sub>
-</div>
