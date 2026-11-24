@@ -3,16 +3,16 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=สวัสดีครับ%20ยินดีต้อนรับสู่โปรไฟล์ของผม!&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35" width="100%" />
 </div>
 
-<h1 align="center">สวัสดีครับ 👋 ผมชื่อ [ศุภวุฒิ บานสูงเนิน / กล้า ]</h1>
-<h3 align="center">💻 [ตำแหน่งงาน หรือ สิ่งที่คุณสนใจ เช่น software tester]</h3>
+<h1 align="center">สวัสดีครับ 👋 ผมชื่อ[ศุภวุฒิ บานสูงเนิน / กล้า </h1>
+<h3 align="center">💻 ตำแหน่งงาน หรือ สิ่งที่คุณสนใจ เช่น software tester</h3>
 
 ---
 
 ### 👨‍💻 เกี่ยวกับผม (About Me)
 
-- 🌱 กำลังเรียนรู้เพิ่มเติมเกี่ยวกับ **[สิ่งที่กำลังศึกษา เช่น Next.js, Docker, AI/ML]**
-- 📫 ช่องทางการติดต่อ: **[อีเมลของคุณ เช่น example@email.com]**
-- ⚡ เรื่องน่ารู้เกี่ยวกับผม: **[งานอดิเรก หรือ ความชอบส่วนตัว เช่น ชอบดื่มกาแฟ และเล่นเกม]**
+- 🌱 กำลังเรียนรู้เพิ่มเติมเกี่ยวกับ **HTML CSS JAVA SQL Node.js**
+- 📫 ช่องทางการติดต่อ: **supphawut.b@ku.th**
+- ⚡ เรื่องน่ารู้เกี่ยวกับผม: **ดูหนัง ฟังเพลง ความสิ่งใหม่ๆทำ และเล่นเกม**
 
 ---
 
