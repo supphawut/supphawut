@@ -34,7 +34,7 @@
 
 ### 🤝 ช่องทางการติดตามและติดต่อ (Connect with Me)
 
-<p align="left">
+<p align="center">
   <a href="https://www.facebook.com/share/1F6ga6dXDK/" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
