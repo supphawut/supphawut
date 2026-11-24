@@ -35,16 +35,13 @@
 ### 🤝 ช่องทางการติดตามและติดต่อ (Connect with Me)
 
 <p align="left">
-  <a href="https://linkedin.com/in/your-username" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://facebook.com/your-username" target="_blank">
+  <a href="https://www.facebook.com/share/1F6ga6dXDK/" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
-  <a href="https://instagram.com/your-username" target="_blank">
+  <a href="https://www.instagram.com/tammadar1?dmpr=MWd2emdiYW5hbG5laA==" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:supphawut.b@ku.th">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </p>
