@@ -1,7 +1,7 @@
 <div align="center">
-  <!-- สามารถเปลี่ยนลิงก์รูปภาพ Banner ด้านล่างนี้เป็นรูปของคุณเองได้ -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=สวัสดีครับ%20ยินดีต้อนรับสู่โปรไฟล์ของผม!&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35" width="100%" />
-</div>
+  <!-- Minimalist Header -->
+  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=auto&height=120&section=header&text=สวัสดีครับ%20ยินดีต้อนรับสู่โปรไฟล์ของผม!&fontSize=30&fontAlignY=50" alt="Header" />
+
 
 <h1 align="center">สวัสดีครับ 👋 ผมชื่อ[ศุภวุฒิ บานสูงเนิน / กล้า </h1>
 <h3 align="center">💻 ตำแหน่งงาน หรือ สิ่งที่คุณสนใจ เช่น software tester</h3>
