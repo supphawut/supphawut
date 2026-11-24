@@ -28,7 +28,7 @@
   <img src="https://skillicons.dev/icons?i=py,c,vscode,github" alt="Tools Icons" />
 </p>
 
-
+---
 
 ### 📊 สถิติบน GitHub (GitHub Stats)
 
