@@ -18,14 +18,25 @@
 
 ### 🛠️ ทักษะและเครื่องมือที่ใช้ (Tech Stack & Tools)
 
-#### **Languages & Frameworks**
+#### **ทักษะ (Skills & Languages)**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,python" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=html,python,c" alt="Skills" />
+</p>
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
 </p>
 
-#### **Databases & Cloud / DevOps**
+#### **เครื่องมือที่ใช้ (Tools)**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase,docker,git,github,vscode" alt="Tools" />
+  <img src="https://skillicons.dev/icons?i=python,c,vscode,github" alt="Tools" />
+</p>
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </p>
 
 
