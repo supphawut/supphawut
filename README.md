@@ -30,15 +30,7 @@
 
 ---
 
-### 📊 สถิติบน GitHub (GitHub Stats)
 
-<div align="center">
-  <!-- อย่าลืมเปลี่ยน your-username เป็นชื่อผู้ใช้ GitHub ของคุณทั้ง 2 จุดด้านล่างนี้ -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&langs_count=8&theme=tokyonight" alt="Top Languages" />
-</div>
-
----
 
 ### 🤝 ช่องทางการติดตามและติดต่อ (Connect with Me)
 
