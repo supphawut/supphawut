@@ -6,11 +6,6 @@
 <h1 align="center">สวัสดีครับ 👋 ผมชื่อ [ศุภวุฒิ บานสูงเนิน / กล้า ]</h1>
 <h3 align="center">💻 [ตำแหน่งงาน หรือ สิ่งที่คุณสนใจ เช่น software tester]</h3>
 
-<p align="center">
-  <!-- แถบสถิติผู้เข้าชมโปรไฟล์ (เปลี่ยน your-username เป็นชื่อผู้ใช้ GitHub ของคุณ) -->
-  <img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
-
 ---
 
 ### 👨‍💻 เกี่ยวกับผม (About Me)
