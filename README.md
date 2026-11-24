@@ -3,8 +3,8 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=สวัสดีครับ%20ยินดีต้อนรับสู่โปรไฟล์ของผม!&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35" width="100%" />
 </div>
 
-<h1 align="center">สวัสดีครับ 👋 ผมชื่อ [ชื่อของคุณ / ชื่อเล่น]</h1>
-<h3 align="center">💻 [ตำแหน่งงาน หรือ สิ่งที่คุณสนใจ เช่น Full-Stack Developer | UI/UX Enthusiast]</h3>
+<h1 align="center">สวัสดีครับ 👋 ผมชื่อ [ศุภวุฒิ บานสูงเนิน / กล้า ]</h1>
+<h3 align="center">💻 [ตำแหน่งงาน หรือ สิ่งที่คุณสนใจ เช่น software tester]</h3>
 
 <p align="center">
   <!-- แถบสถิติผู้เข้าชมโปรไฟล์ (เปลี่ยน your-username เป็นชื่อผู้ใช้ GitHub ของคุณ) -->
@@ -36,7 +36,7 @@
   <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase,docker,git,github,vscode" alt="Tools" />
 </p>
 
-*(หมายเหตุ: คุณสามารถเพิ่มหรือลดไอคอนได้ง่ายๆ โดยแก้ชื่อหลัง `?i=` เช่น `java,php,vue,tailwind`)*
+
 
 ---
 
